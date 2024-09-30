@@ -19,6 +19,7 @@ Welcome to my **Simple Chat Bot** project built with **React**! This application
 /simple-chat-bot
     ├── src
     │   ├── components
+        ├── Chatbox
     │   ├── styles
     │   └── App.js
     ├── public
